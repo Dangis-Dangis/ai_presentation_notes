@@ -1,4 +1,6 @@
 # Presentation Goals
+[Jump to draft section](iterative_full_draft.md#iteration-1---presentation-goals)
+
 - Calibrate expectations.
 - It is happening; two options:
   - Wait for better models.
@@ -7,6 +9,8 @@
 - Not about AGI, singularity, or politics.
 
 # Perspective Bias
+[Jump to draft section](iterative_full_draft.md#iteration-2---perspective-bias)
+
 - What drives bias.
 - Predictions are often wrong, even when informed.
 - AI evangelist vs decel viewpoints (chad meme framing).
@@ -23,6 +27,8 @@
 - Dancing bear effect.
 
 # LLM Basics
+[Jump to draft section](iterative_full_draft.md#iteration-3---llm-basics)
+
 - Terms:
   - Add workflow vs agent.
 - Model lifecycle:
@@ -36,6 +42,8 @@
 - Rapidly changing landscape.
 
 # Limitations
+[Jump to draft section](iterative_full_draft.md#iteration-4---limitations)
+
 - Non-deterministic behavior.
 - Weak at math and logic.
 - Hallucination causes:
@@ -52,6 +60,8 @@
 - Volume of training data affects what appears in models.
 
 # How to Use More Effectively
+[Jump to draft section](iterative_full_draft.md#iteration-5---how-to-use-more-effectively)
+
 - Three kinds of mindsets.
 - Vibe coding vs augmented learning.
 - Vibe coding without looking at code (own it).
@@ -67,6 +77,8 @@
   - Get mad or learn; your choice.
 
 # Prompt Engineering
+[Jump to draft section](iterative_full_draft.md#iteration-6---prompt-engineering)
+
 - Use fewer tokens for higher information density.
 - Avoid "dead zone" prompt drift:
   - Plan A derails.
@@ -101,6 +113,8 @@
   - Add picture or song to enrich narrative.
 
 # Risks
+[Jump to draft section](iterative_full_draft.md#iteration-7---risks)
+
 - Cybersecurity:
   - Faster zero-day discovery.
   - Faster cat-and-mouse cycle.
@@ -117,6 +131,8 @@
 - Reviews can over-prioritize specific concerns; stay aware.
 
 # Long-Term Impacts
+[Jump to draft section](iterative_full_draft.md#iteration-8---long-term-impacts)
+
 - Software cost plummets.
   - Graph themes: "more code," "cost per SLOC down," "quality per line down," "KPIs up."
 - In less critical applications:
