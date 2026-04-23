@@ -249,7 +249,7 @@ Its wrong you say you LOSE the skill. It's riding a bike, your knowledge is stil
 https://youtu.be/YWZR6tc7qYg
 
 Don't let it do the thinking
-Don't read the plan, read the code. 1000 lines of plan translates to around ~1000 lines of code. You can read the plan thoroughly, but then the code has surprises. May as well just read the code. Own your code. Know your code. If you think anything good about it, but haven't read it, you don't even know if your shit stinks.
+Don't read the plan, read the code. 1000 lines of plan translates to around ~1000 lines of code. You can read the plan thoroughly, but then the code has surprises. May as well just read the code. Own your code. Know your code. If you think anything good about it, but haven't read it, you don't even know if your garbage stinks.
 
 Separate the planning context window from the "go do the task" context window. 
 

@@ -40,7 +40,7 @@ Tim - Tom and Jerry
 https://youtube.com/shorts/Dzhx5_l2ZaE
 
 You have two options:
-1. Reject existing capability as shit. Wait for better models before buying in. (Literally everyone 2 years ago)
+1. Reject existing capability as garbage. Wait for better models before buying in. (Literally everyone 2 years ago)
 2. Lean ahead of the curve. Understand what it can do and where it can benefit you. Learn how to get better outputs. Accept failing results are teaching moments. Find limitations and understand why.
 
 (One of my main suggestions is: after going through many iterations to get what you want, ask it 'How could I have better asked for this initially?'. Sure you might right now feel like you wasted time, but it's up to you whether you want to accel or decel)
