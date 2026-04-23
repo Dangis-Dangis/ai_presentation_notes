@@ -13,7 +13,7 @@ This is a presentation-writing knowledge base, not a software project. The files
 
 ## Repository Map
 
-- `new_outline.md`
+- `outline.md`
   - Big-picture structure of the talk.
   - Defines major sections and rough talking points.
   - Best starting point for understanding scope and flow.
@@ -33,7 +33,7 @@ This is a presentation-writing knowledge base, not a software project. The files
 
 ## Suggested Workflow
 
-1. Start in `new_outline.md`
+1. Start in `outline.md`
    - Confirm section order, narrative arc, and key claims.
 
 2. Expand or revise in `iterative_full_draft.md`
