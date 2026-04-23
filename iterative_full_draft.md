@@ -35,7 +35,7 @@
   - But capabilities and workflows are changing quickly enough that non-engagement can become an avoidable disadvantage.
   - The practical recommendation is "learn now with calibrated scope."
 - **Evidence from Notes (Strict Quotes)**
-  - "You have two options: 1. Reject existing capability as shit. Wait for better models before buying in... 2. Lean ahead of the curve..." - [input_notes/notes_1.md](input_notes/notes_1.md) ([L42-L44](input_notes/notes_1.md#L42-L44))
+  - "You have two options: 1. Reject existing capability as garbage. Wait for better models before buying in... 2. Lean ahead of the curve..." - [input_notes/notes_1.md](input_notes/notes_1.md) ([L42-L44](input_notes/notes_1.md#L42-L44))
   - "Accept failing results are teaching moments. Find limitations and understand why." - [input_notes/notes_1.md](input_notes/notes_1.md) ([L44](input_notes/notes_1.md#L44))
   - "Areas further from programming will take longer... Programming is a closed loop system... Performance is improving here rapidly." - [input_notes/notes_2.md](input_notes/notes_2.md) ([L80](input_notes/notes_2.md#L80))
 - **Suggested Slide/Spoken Framing**
