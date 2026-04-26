@@ -94,3 +94,5 @@ The easiest way to get started is Ollama (cross-platform, one command to pull an
 
 ------------------------------
 
+
+https://pytorch.org/blog/a-primer-on-llm-post-training/

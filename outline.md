@@ -8,6 +8,20 @@
 - Defeat polarization through learning.
 - Not about AGI, singularity, or politics.
 
+Why not listen to me?
+- I am only one person
+- I am not an expert in ML
+- I have a long history of being fooled
+- AI is a rapidly evolving frontier
+
+Why listen to me?
+- I am skeptical, curious, and disagreeable
+- I am a huge enthusiast with:
+  - little personal responsibilities (avg 40 hrs of YouTube/week)
+  - heavy attraction to opposing viewpoints
+  - strong aversion to unfounded doomerism/utopian thinking
+
+
 # Perspective Bias
 [Jump to draft section](iterative_full_draft.md#iteration-2---perspective-bias)
 
@@ -18,7 +32,7 @@
   - Loud voices are often extreme, shocking, or angering.
   - Those voices are not representative.
 - "Boy who cried wolf" effect entrenches positions.
-- Speaker incentives:
+- Speaker incentives:C:\Users\odono\Documents\GitHub\ai_presentation_notes
   - Avoid headline-chasing.
   - Listen to experts.
 - Reference: "Stop Using Human Language."
