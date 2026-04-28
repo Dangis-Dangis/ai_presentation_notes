@@ -91,8 +91,94 @@ On cost, Tier 2 API pricing has dropped dramatically — GPT-4o mini, Claude Hai
 Running local models
 The easiest way to get started is Ollama (cross-platform, one command to pull and run most popular models) or LM Studio (GUI-friendly, good for Mac). For production deployment, vLLM and llama.cpp are the go-to inference engines. Most quantized (4-bit) models in the 7–13B range run on a modern gaming GPU or even Apple Silicon Macs with unified memory.
 
+------------------------------
+
+https://youtu.be/bjO-s4rNPlY
+
+Copyright/legal or ethical/moral lines will and have been debated in similar areas.
+What is the current level of piracy and other stolen works? What is the scale? What is the level of seriousness in legal response?
+Past lawsuits related to copyright:
+- Google indexing website content, summarizing content on search result. Determined legal in that specific context, only sharing text snippet
+- Thumbnails in image search was challenged. Since it was a derivative, lower quality, it was determined acceptable.
+
+Robots.txt 
+- voluntary file tells crawlers "don't come here", "only crawl this content"
+- mostly complied with by crawlers, all major search engines
+- https://en.wikipedia.org/wiki/Robots.txt
+
+Follow on questions:
+What about looking at images and generating text?
+What about looking at text and generating images?
+What about YouTube captioning? 
+What about using / indexing on captioned data?
+In the name of help in directing your way, web crawlers may be used help to direct traffic or the opposite.
+
+Challenging questions:
+How to prove mutual benefit?
+How to prove "competing" with or replacing?
+
+Google using AI may mutually direct traffic, help businesses or people find each other, help aggregate traffic for users. Asking less sympathetic cases, like LLMs that download pre-training data. These questions may be answered differently.
+
+What is "ethical" may be relative to the general understanding of the time.
+- Is an upcoming painter being taught by an LLM with direct instruction a threat to their work? What if there are limited painters? What about video teaching? What about software-assisted works that undercut the material costs? 
+- What about the stable owners? Electricity? Automation? 
+- Global trade?
+
+How do artists feel about the ethical question: 
+How do the best artists feel about an LLM?
+Is it wrong that someone may buy a print, a lower copy, in the place of an original work? What is the norm?
+
+"The value is still hearing something being said by someone with something worth saying" - Demetri Spanos
+^ applies to visual, musical, any human created artwork.
+
+Art is stolen today, photoshopped, duplicated, pirated. Copyright law exists and applies. 
+The AI technology is trained on existing art. Copied and similar looking art isn't as popular as new work. The 100th Picasso painter wasn't as sought after as the 1st. French and 
+
+No value to explore something vacant, generated.
+The art is embodying a personal expression. This is going to be increasingly savored, relished. 
+What about a derivative work made by an artist that blends two artists?
+
+Casey Muratory:
+I play piano, no robot playing piano will do it for me.
+Even if playing piano is a lot more expensive and difficult. 
+I do it because I like it, and I will never stop doing it. 
+I don't put it on society that I be paid to play the piano.
+We should pay the best piano players to pay the piano.
+I will pay the best piano players, because I want to see them play the piano.
+It makes me happy that my money helps them play the piano.
+
+Robots beat people at chess
+Users can identify non-human behavior
+Being beat by a machine isn't fun, nobody wants to do that
+Now that we know AI is better, we're free to just play 
+(insert cartman gif)
+
+Jason enjoys it regardless of whether
 
 ------------------------------
 
+Predictions are often wrong in time or rate of adoption. 
+- Predicted harms end up harmless or different harms nobody predicted. 
+- Predicted benefits fall flat but it fits a perfect and unexpected use case.
 
+The "Obvious Place This Is Going" throughout history:
+- Every decade since the 60s: Flying cars are coming in ____ years! (Always 20-30 years out, increasing skepticism)
+- Y2K
+- Early 2000s, nobody will go to the retail store! Up from 0.7% in 1999 to 16.7% in 2026  (ref pew research img^, up from 0.7% in 1999 to 16.7% in 2026)
+- Video games will make people violent!
+- You won't always have a calculator!
+
+What makes you so confident in your predictions, exactly?
+
+------------------------------
+
+LLMs consistently favor AI written resumes, even when human review would indicate otherwise. Models also favored their own rewritten resumes over resumes rewritten by other models. In a way that's somewhat human - liking the smell of your own shit.
+
+Thread breakdown here: https://x.com/i/status/2048088874686300431
+
+Paper here: https://arxiv.org/abs/2509.00462
+
+------------------------------
+
+<reference img>
 https://pytorch.org/blog/a-primer-on-llm-post-training/

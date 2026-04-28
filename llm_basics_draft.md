@@ -1,7 +1,7 @@
 # What is an LLM
 
 Token
-- Chunk of text defined by by tokenizer (short word, syllable/subword, punctuation)
+- Chunk of text defined by tokenizer (short word, syllable/subword, punctuation)
 - Unit of measure for input, processing, output
 - Analogous to "lexical" step taken by compilers
 - Mapped to vectors of floating point numbers
@@ -10,10 +10,10 @@ Large Language Model (LLM)
 - Predicts probability distribution over next token
 - Neural network based on transformer model
 - Composed of layers with billions of floating point numbers (weights)
+- Nondeterministic behavior
 
 Pre-Training
-- Imperfect language patterns: "how to sound normal"
-- Not "interpreting how to respond to intended user intent"
+- Imperfect language word/structure patterns: "how to sound normal"
 - Uses input data to determine weights for language and structural patterns
 - Crunches trillions of tokens
 - Data quality and selection is critical
@@ -41,4 +41,13 @@ Three stars aligned:
 1. Cloud infrastructure deployed at scale
 2. GPU technology improvements 
 3. Breakthrough in neural networks - Transformers
+
+# More precise language
+
+STOP using human language 
+Not "having a conversation" | "Generating a transcript role playing some desired viewpoint" 
+Not "thinking" | "Iterative processing" 
+Not "he or she" | "It"
+
+
 
