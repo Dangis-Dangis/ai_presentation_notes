@@ -1,14 +1,16 @@
 # Presentation Goals
 [Jump to draft section](iterative_full_draft.md#iteration-1---presentation-goals)
 
-- Calibrate expectations.
-- It is happening; two options:
-  - Wait for better models.
-  - Learn now.
-- Defeat polarization through learning.
-- Not about AGI, singularity, or politics.
+## What are we doing here
+- Calibrate expectations
+- Recognize different perspectives
+- Defeat polarization through learning
 
-### About Me
+## What are we NOT doing
+- Philosophy: AGI, singularity, or politics.
+- Deep technical dive
+
+## About Me
 
 Why not listen to me?
 - I am only one person
@@ -51,6 +53,7 @@ Post Training
 - Includes: 
     - Reinforcement learning from human feedback (RLHF)
     - Safety constraints (e.g. output classifiers)
+![https://pytorch.org/blog/a-primer-on-llm-post-training/](ref_images/4-1.png)
 
 Inference
 - Actual use of a model at runtime
@@ -113,21 +116,21 @@ Up from 0.7% in 1999 to 16.7% in 2026  (ref pew research img^, up from 0.7% in 1
 
 ### VR
 Prediction:
-Total takeover of office work, video games, media
+Imminent takeover of office work, video games, media
 
 Reality:
 Narrow use for training
 
 ### More...
-Social Media will connect people
-Video games will create violence
-You won't always have a calculator
+- Social Media will connect people
+- Video games will create violence
+- You won't always have a calculator
 ...
 
 ### What makes you so confident in your predictions, exactly?
-AI is the most terrible, misleading rollout of any tech product in history.
-Risk analysis and predictions are difficult.
-The field is rapidly changing - many advancements, many opinions
+- Risk analysis and predictions are difficult
+- The field is rapidly changing - many advancements, many opinions
+- AI is the most terrible, misleading rollout of any tech product in history.
 
 # Perspective Bias
 Everyone has bias
@@ -145,7 +148,7 @@ Learn
 1) What to look for
 2) Who/what to listen to
 3) How to smell extremes
-![source: https://img.magnific.com/premium-vector/five-human-senses-icons-vector-set-vision-hearing-smell-taste-touch_820464-76.jpg](ref_images\five-human-senses-icons-vector-set-vision-hearing-smell-taste-touch_820464-76.avif)
+![source: https://img.magnific.com/premium-vector/five-human-senses-icons-vector-set-vision-hearing-smell-taste-touch_820464-76.jpg](ref_images/five-human-senses-icons-vector-set-vision-hearing-smell-taste-touch_820464-76.png)
 
 
 ### Don't believe headlines
@@ -210,13 +213,13 @@ How are they wrong?
 - Much better dancing exists
 
 **AI Evangelist Prediction**
-![source: https://technical.ly/wp-content/uploads/2017/01/AI-Gets-Weird.png](ref_images\ai-intelligence-growth-curve-censored.jpg)
+![source: https://technical.ly/wp-content/uploads/2017/01/AI-Gets-Weird.png](ref_images/ai-intelligence-growth-curve-censored.png)
 
 **Decel Prediction**
-![source: grok](ref_images\ai-intelligence-level-curve-censored-gaussian.jpg)
+![source: grok](ref_images/ai-intelligence-level-curve-censored-gaussian.png)
 
 **My Prediction**
-![source: grok](ref_images\ai-intelligence-my-prediction-censored-gaussian.jpg)
+![source: grok](ref_images/ai-intelligence-my-prediction-censored-gaussian.png)
 
 ## What drives bias?
 - Evaluating consequences and contextualization of a problem is highly subjective
@@ -346,16 +349,14 @@ When?
 - Time and patience to waste on emerging technology
 - It can feel addictive; writing by hand may feel painful, but preserves capability.
 
-- If workflow goes wrong:
-  
-  - Get mad or learn; your choice.
+--------------------------------------------------------------
 
 # Prompt Engineering
 [Jump to draft section](iterative_full_draft.md#iteration-6---prompt-engineering)
 
 - Use fewer tokens for higher information density.
 - Avoid "dead zone" prompt drift:
-  - Plan A derails.
+  - Plan A derails 
   - Midstream mind changes pollute context.
 - Write prompts like high-quality Jira tickets:
   - No assumptions.
