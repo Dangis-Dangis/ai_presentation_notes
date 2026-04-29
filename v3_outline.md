@@ -53,6 +53,7 @@ Post Training
 - Includes: 
     - Reinforcement learning from human feedback (RLHF)
     - Safety constraints (e.g. output classifiers)
+
 ![https://pytorch.org/blog/a-primer-on-llm-post-training/](ref_images/4-1.png)
 
 Inference
@@ -160,8 +161,6 @@ Learn
 - Listen to technical experts who use more precision
 
 ## Archetypes
-(Chad meme? IQ graph meme?)
-Speakers can be any or all
 
 ### AI Evangelist
 May be motivated by self interest
@@ -287,21 +286,24 @@ Benchmarks:
 What it does, what it doesn't:
 - Non-deterministic behavior.
 - Weak at math, logic, reasoning.
+- Domain knowledge is irreplaceable for evaluation.
+- Volume of training data affects what appears in models.
+
+Common issues
 - Hallucination causes:
   - Limited context window.
   - Insufficient confidence assessment.
 - Sycophancy:
   - "World traveler" problem.
   - Cost of being wrong and confident.
-- Domain knowledge is irreplaceable for evaluation.
-- Benchmarks:
-  - Inexact.
-  - Hackable.
-  - Still directionally useful across sets.
-- Volume of training data affects what appears in models.
+
+Benchmarks:
+- Inexact.
+- Hackable.
+- Still directionally useful across sets.
+
 
 # How to Use More Effectively
-[Jump to draft section](iterative_full_draft.md#iteration-5---how-to-use-more-effectively)
 
 Three primary mindsets
 1) Vibe coding 
