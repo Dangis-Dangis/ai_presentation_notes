@@ -182,3 +182,24 @@ Paper here: https://arxiv.org/abs/2509.00462
 
 <reference img>
 https://pytorch.org/blog/a-primer-on-llm-post-training/
+
+------------------------------
+https://youtu.be/v4F1gFy-hqg
+
+"Code is cheap fallacy"
+- Works better in mature codebase
+- Useless when now more to look through
+
+Criticism: Too wordy
+- Uses the most words possible to explain
+- Often speaking beyond, not using shared understanding
+
+Can run so fast it "outruns your headlights
+- Slow down
+- Speed limit is your analysis
+
+Feedback is limited to testing
+Testing is limited by good interface design
+Design the interface, evaluate the implementation
+
+------------------------------
